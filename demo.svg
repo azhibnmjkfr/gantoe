@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<rect width="1200" height="560" fill="#FFFDF3"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="40" y="18" width="1120" height="82" fill="#FFFDF3" stroke="#000" stroke-width="3"/>
+<text x="56" y="60" font-size="30" font-weight="900">GANTOE</text>
+<text x="56" y="80" font-size="10" letter-spacing="2">KONVERSI BERKAS LOKAL</text>
+<rect x="998" y="36" width="118" height="38" rx="19" fill="#000"/>
+<text x="1057" y="60" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Install App</text>
+<text x="90" y="130" font-size="14" font-weight="800">1. Pilih jenis berkas asal</text>
+<text x="640" y="130" font-size="14" font-weight="800">2. Pilih format tujuan</text>
+<rect x="86" y="142" width="460" height="46" rx="12" fill="#fff" stroke="#000" stroke-width="3"/>
+<text x="106" y="171" font-size="16" font-weight="700">Gambar (JPG, PNG, WEBP, GIF, BMP)</text>
+<text x="565" y="172" font-size="20" font-weight="900">→</text>
+<rect x="636" y="142" width="460" height="46" rx="12" fill="#fff" stroke="#000" stroke-width="3"/>
+<text x="656" y="171" font-size="16" font-weight="700">JPG — Format foto universal</text>
+<rect x="91" y="214" width="1010" height="228" rx="20" fill="#FFFDF3" stroke="#000" stroke-width="3" stroke-dasharray="10 8"/>
+<rect x="91" y="214" width="1010" height="228" rx="20" fill="#3B82F6" stroke="#000" stroke-width="3" stroke-dasharray="10 8" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.45;0.85;1" dur="9s" repeatCount="indefinite"/></rect>
+<text x="596" y="305" font-size="32" font-weight="900" text-anchor="middle" fill="#000">Tarik file ke sini<animate attributeName="fill" values="#000;#000;#fff;#fff;#000" keyTimes="0;0.35;0.45;0.85;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="596" y="335" font-size="15" font-weight="700" text-anchor="middle" fill="#000">atau klik untuk memilih · FROM: Gambar (JPG, PNG, WEBP, GIF, BMP) → TO: JPG<animate attributeName="fill" values="#000;#000;#fff;#fff;#000" keyTimes="0;0.35;0.45;0.85;1" dur="9s" repeatCount="indefinite"/></text>
+<g font-size="12" font-weight="700" text-anchor="middle"><rect x="428" y="352" width="128" height="28" rx="6" fill="#fff" stroke="#000" stroke-width="2"/><text x="492" y="371">100% OFFLINE</text><rect x="564" y="352" width="128" height="28" rx="6" fill="#fff" stroke="#000" stroke-width="2"/><text x="628" y="371">TANPA UNGGAH</text><rect x="700" y="352" width="108" height="28" rx="6" fill="#fff" stroke="#000" stroke-width="2"/><text x="754" y="371">TANPA OCR</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.7;1" dur="9s" repeatCount="indefinite"/><animate attributeName="transform" attributeType="XML" type="translate" values="0 -90;0 0;0 0;0 -90" keyTimes="0;0.2;0.7;1" dur="9s" repeatCount="indefinite"/><rect x="920" y="240" width="54" height="68" rx="8" fill="#fff" stroke="#000" stroke-width="2.5"/><text x="947" y="278" font-size="16" font-weight="900" text-anchor="middle">JPG</text><text x="947" y="296" font-size="9" text-anchor="middle">foto.jpg</text></g>
+<rect x="91" y="408" width="1010" height="10" rx="5" fill="#fff" stroke="#000" stroke-width="2"/><rect x="91" y="408" width="0" height="10" rx="5" fill="#000"><animate attributeName="width" values="0;0;1010;1010;0" keyTimes="0;0.45;0.65;0.85;1" dur="9s" repeatCount="indefinite"/></rect>
+<text x="600" y="476" font-size="14" text-anchor="middle">Sistem akan otomatis menyesuaikan format jika berkas yang dimasukkan berbeda dari pilihan awal.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.7;0.78;0.92;1" dur="9s" repeatCount="indefinite"/>
+<rect x="40" y="18" width="1120" height="486" fill="#FFFDF3" stroke="#000" stroke-width="3"/>
+<rect x="40" y="18" width="1120" height="54" fill="#3B82F6"/>
+<text x="600" y="54" font-size="16" font-weight="900" fill="#fff" text-anchor="middle" letter-spacing="3">GANTOE • KONVERTER BERKAS OFFLINE</text>
+<text x="600" y="118" font-size="22" font-weight="900" text-anchor="middle" letter-spacing="3">CARA KERJA</text>
+<rect x="540" y="130" width="120" height="5" fill="#3B82F6"/>
+<g><rect x="240" y="152" width="720" height="52" fill="#fff" stroke="#000" stroke-width="2.5"/><circle cx="276" cy="178" r="16" fill="#3B82F6"/><text x="276" y="184" font-size="17" font-weight="900" fill="#fff" text-anchor="middle">1</text><text x="310" y="184" font-size="19">Pilih atau seret file anda</text></g>
+<g><rect x="240" y="214" width="720" height="52" fill="#fff" stroke="#000" stroke-width="2.5"/><circle cx="276" cy="240" r="16" fill="#3B82F6"/><text x="276" y="246" font-size="17" font-weight="900" fill="#fff" text-anchor="middle">2</text><text x="310" y="246" font-size="19">Pilih tujuan</text></g>
+<g><rect x="240" y="276" width="720" height="52" fill="#fff" stroke="#000" stroke-width="2.5"/><circle cx="276" cy="302" r="16" fill="#3B82F6"/><text x="276" y="308" font-size="17" font-weight="900" fill="#fff" text-anchor="middle">3</text><text x="310" y="308" font-size="19">Selesai — langsung terunduh</text></g>
+<rect x="360" y="362" width="480" height="46" fill="#3B82F6" stroke="#000" stroke-width="2.5"/><text x="600" y="391" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">Terima kasih sudah menggunakan Gantoe.</text>
+<text x="600" y="444" font-size="12" letter-spacing="2" text-anchor="middle">GANTOE • 100% OFFLINE • TANPA UNGGAH</text>
+</g>
+</g></svg>
