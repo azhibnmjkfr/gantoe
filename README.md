@@ -4,6 +4,8 @@
 
 [Coba Live Demo di Sini](https://azhibnmjkfr.github.io/gantoe/)
 
+![GANTOE Demo](./demo.svg)
+
 Pilih file yang kamu punya, pilih mau diubah jadi apa, taruh file-nya. Selesai.
 
 Dibuat oleh AZHCO — studio produk digital dari Aceh, Indonesia.
